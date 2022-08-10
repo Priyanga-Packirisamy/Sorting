@@ -3,7 +3,7 @@
 int main()    
 {    
     //Initialize array     
-    int arr[] = {5, 2, 8, 7, 1, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 66, 6, 66, 66, 6, 6, 6,};     
+    int arr[] = {5, 2, 8, 7, 1, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 66, 6, 66, 66, 6, 6, 6};     
     int temp = 0;    
         
     //Calculate length of array arr    
